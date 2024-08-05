@@ -1,15 +1,15 @@
 {
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.0"
   },
-  "name": "api-members-club",
-  "version": "1.0.0.",
+  "name": "api-storage-tiaw",
+  "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {},
   "scripts": {
-    "build": "npx json-server server.json"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fillipe Barreto",
+  "author": "Fábio Cordeiro",
   "license": "ISC",
-  "description": "API para gerenciamento de clientes e cortes do clube"
+  "description": ""
 }
