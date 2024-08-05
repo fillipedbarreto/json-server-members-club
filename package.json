@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  },
+  "name": "api-members-club",
+  "version": "1.0.0.",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx json-server server.json"
+  },
+  "author": "Fillipe Barreto",
+  "license": "ISC",
+  "description": "API para gerenciamento de clientes e cortes do clube"
+}
